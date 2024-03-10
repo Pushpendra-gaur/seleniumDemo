@@ -71,7 +71,7 @@ public class ClickOfButton extends louchBroswer {
 		String ExpectedText = "you have done a dynamic click";
 		
 		Assert.assertEquals(ActualText, ExpectedText);
-		
+		System.out.println("my name is pushpendra");
 		
 		
 	}
