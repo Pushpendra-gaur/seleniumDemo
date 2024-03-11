@@ -73,11 +73,7 @@ public class ClickOfButton extends louchBroswer {
 		Assert.assertEquals(ActualText, ExpectedText);
 		System.out.println("my name is pushpendra");
 		
-		System.out.println("my name is ankit");
 		
-		System.out.println("my name is ankit");
-		System.out.println("my name is ankit");
-		System.out.println("my name is ankit");
 	}
 
 }
