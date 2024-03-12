@@ -28,6 +28,14 @@ public class pageText extends louchBroswer {
 		
 		crossIcon.click();
 		practice.click();
+		
+		System.out.println("my name is pushpendra kumar gaur");
+		
+		System.out.println("my name is ankit");
+		
+		System.out.println("rahul");
+		
+		
 	}
 
 }
